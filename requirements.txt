@@ -1,0 +1,2 @@
+# No dependencies! Just bash and a sense of adventure.
+# (And maybe some coffee for debugging the actual issues)
